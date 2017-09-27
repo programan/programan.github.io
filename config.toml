@@ -1,7 +1,7 @@
-baseurl = "http://example.org/"
-title = "Hugo Website"
+baseurl = "https://programan.github.io/"
+title = "Programan Website"
 theme = "nix"
-languageCode = "en-us"
+languageCode = "ja"
 disqusShortname = "your_disqus_shortname"
 
 [menu]
@@ -15,16 +15,16 @@ disqusShortname = "your_disqus_shortname"
     url = "/about"
 
 [params]
-  GithubID = "your_github"
+  GithubID = "Programan"
   TwitterID = "your_twitter"
   LinkedInID = "your_linkedin"
   GoogleplusID = "your_googleplus"
   FacebookID = "your_facebook"
-  Name = "Mr Hugo"
+  Name = "Programan"
   HeaderUsername = "hugo"
   HeaderHostname = "hugo"
-  Email = "your_email"
-  About = "Hi I'm Hugo and this is my website. I am a developer, writer and family man. I like developing websites using Hugo, sports, nature, photography and travel. On this websites you can expect my projects and blog posts about everything I love. Enjoy!"
+  Email = "hoge@example123.com"
+  About = "Github pagesの練習。コンテンツはHugoで出力"
   ProfilePicture = "/profile.jpg"
   SlackURL = "your_slack_invite_url"
 
